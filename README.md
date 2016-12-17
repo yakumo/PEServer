@@ -1,2 +1,3 @@
 # PEServer
-Mine craft PE server application
+
+Minecraft PE server application
